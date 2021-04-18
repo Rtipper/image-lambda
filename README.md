@@ -19,4 +19,4 @@ It should do so with a predictable naming convention, so that your server and/or
 ![MAIN IMAGE](Capture.PNG)
 
 # THUMBNAIL IMAGE
-![THUMBNAIL IMAGE](CaptureThumbnail.PNG)
+:(
