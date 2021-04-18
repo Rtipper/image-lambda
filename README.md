@@ -1,8 +1,6 @@
-# image-lambda
-Lab 17
+# Lab 17 -- Lambda Image
 
-# PULL REQUEST
-
+# FEATURE TASKS
 A user should be able to upload an image at any size, and have both the original size and a thumbnail size
 When an image is uploaded to your S3 bucket, it should trigger a Lambda function which must;
 
